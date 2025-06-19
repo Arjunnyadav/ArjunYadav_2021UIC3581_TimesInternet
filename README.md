@@ -358,10 +358,6 @@ The application is automatically deployed to Netlify with the following configur
 - Include use cases and expected behavior
 - Provide mockups or examples where applicable
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Design Inspiration**: Modern fintech applications and AI chat interfaces
